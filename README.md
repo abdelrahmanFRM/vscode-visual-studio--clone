@@ -70,10 +70,7 @@ src/
   * Managed data with **React Query** for optimal performance and UX
   * Role-based permissions in Strapi used to secure public access
 
----
 
-
-Let me know what you’d like next.
 
 =======
 # React + TypeScript + Vite
